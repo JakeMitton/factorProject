@@ -12,3 +12,12 @@ struct Head {
   Node* right_subtree = nullptr;
   int left_height = 0; 
 }
+
+void insert(Head root){}
+//Cases Left and Right
+//
+void traverse(Head root){}
+//K<H || K>H
+//recursive
+
+
